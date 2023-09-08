@@ -1,0 +1,70 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+font-family: 'Amatic SC', cursive;
+a{
+    text-decoration: none;
+}
+#botao{
+    display: block;
+    margin: auto;
+    background-color: black;
+    border-color: darkgray;
+    color: white;
+}
+#codigo{
+    display: block;
+    margin: auto;
+    background-color: black;
+    border-color: darkgray;
+    color: white;
+    
+}
+#continuar{
+    display: block;
+    margin: auto;
+    float:Left;
+    background-color: black;
+    border-color: darkgray;
+    color: white;
+    
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 50px;
+  }
+
+#audio1{
+    position: absolute; top: 50%; left: 50%; 
+    transform: translate(-50%, -50%);
+    border: 2px 2px 2px black;
+}
+iframe{
+    border: none;  
+}
+p::selection{
+    color: white;
+    background-color: black;
+}
+#Continue{
+    text-indent: 5px;
+    text-align: left;
+    color: white;
+    margin-top: -5px;
+}
+#vimeo{
+    display: block;
+    margin: auto;
+}
+#poem{
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    font-size: 1.5em;
+    text-align: center;
+}
+#will{
+    display: block;
+    margin: auto;
+    padding: 0px 0px 0px 0px;
+}
